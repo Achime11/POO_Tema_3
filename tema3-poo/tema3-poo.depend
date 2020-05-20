@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1590006468 source:e:\valy11\programare\c++\poo\tema3-poo\src\casa.cpp
+	"Casa.h"
+	"Proprietate.h"
+	<iostream>
+
+1590006554 e:\valy11\programare\c++\poo\tema3-poo\include\casa.h
+	"Proprietate.h"
+	<iostream>
+	<string>
+	<vector>
+	<set>
+
+1590004823 source:e:\valy11\programare\c++\poo\tema3-poo\main.cpp
+	<iostream>
+	<vector>
+	"Proprietate.h"
+	"Apartament.h"
+	"Casa.h"
+	"InvalidProp.h"
+	"Gestiune.h"
+	<set>
+
+1590006539 e:\valy11\programare\c++\poo\tema3-poo\include\proprietate.h
+	<iostream>
+	<string>
+
+1590006539 e:\valy11\programare\c++\poo\tema3-poo\include\apartament.h
+	"Proprietate.h"
+	<iostream>
+	<string>
+	<set>
+
+1590006554 source:e:\valy11\programare\c++\poo\tema3-poo\src\apartament.cpp
+	"Apartament.h"
+	"Proprietate.h"
+	<iostream>
+	<set>
+
+1590006539 source:e:\valy11\programare\c++\poo\tema3-poo\src\proprietate.cpp
+	"Proprietate.h"
+	<iostream>
+
+1589997130 source:e:\valy11\programare\c++\poo\tema3-poo\src\invalidprop.cpp
+
+1589997228 e:\valy11\programare\c++\poo\tema3-poo\include\invalidprop.h
+	<exception>
+
+1590005337 e:\valy11\programare\c++\poo\tema3-poo\include\gestiune.h
+	<vector>
+
+1590005316 source:e:\valy11\programare\c++\poo\tema3-poo\src\gestiune.cpp
+
